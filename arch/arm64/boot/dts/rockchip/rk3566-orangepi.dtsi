@@ -4,7 +4,7 @@
 
 #include <dt-bindings/gpio/gpio.h>
 #include <dt-bindings/pinctrl/rockchip.h>
-#include "rockchip/rk3566.dtsi"
+#include "rk3566.dtsi"
 
 / {
 	model = "GBX RK3566 Orange Pi SOM";
